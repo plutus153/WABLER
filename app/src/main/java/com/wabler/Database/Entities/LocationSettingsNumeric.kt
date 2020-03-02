@@ -9,3 +9,7 @@ data class LocationSettingsNumeric(@PrimaryKey(autoGenerate = true) var settings
     var SettingValue: Double? = null
     var Description: String = ""
 }
+
+class Test{
+
+}
